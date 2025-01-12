@@ -3,14 +3,14 @@ ScaLAPACK -- Scalable Linear Algebra PACKage
 
 // :Author:    Julie_Langou
 // :Email:     <julie@cs.utk.edu>
-// :Date:      2019/11/16
+// :Date:      2025/01/08
 
 ScaLAPACK is a software package provided by Univ. of Tennessee; Univ. of California, Berkeley; Univ. of Colorado Denver; and NAG Ltd..
 
 == Quick links
 
 
-- latest release:           link:https://github.com/Reference-ScaLAPACK/scalapack/archive/v2.1.0.tar.gz[scalapack-2.1.0.tar.gz]
+- latest release:           link:https://github.com/Reference-ScaLAPACK/scalapack/archive/v2.2.2.tar.gz[scalapack-2.2.2.tar.gz]
 - GitHub repository:        https://github.com/Reference-ScaLAPACK/scalapack/[ScaLAPACK on Github]
 - LAPACK Users' Forum:      http://icl.cs.utk.edu/lapack-forum
 - Get the latests news:     mailto:scalapack-announce-subscribe@eecs.utk.edu[ScaLAPACK Announce Mailing List]
@@ -83,6 +83,18 @@ the routine and comment the changes made to the original.
 - We will gladly answer any questions regarding the software. If a modification
 is done, however, it is the responsibility of the person who modified the
 routine to provide support.
+
+=== ScaLAPACK, version 2.2.2
+
+ - Download: https://github.com/Reference-ScaLAPACK/scalapack/archive/refs/tags/v2.2.2.tar.gz[scalapack-2.2.2.tgz]
+ - link:https://github.com/Reference-ScaLAPACK/scalapack/releases/tag/v2.2.2[release notes for ScaLAPACK 2.2.2]
+ - Updated:  Janary 08, 2025
+
+=== ScaLAPACK, version 2.2.0
+
+ - Download: https://github.com/Reference-ScaLAPACK/scalapack/archive/refs/tags/v2.2.0.tar.gz[scalapack-2.2.0.tgz]
+ - link:https://github.com/Reference-ScaLAPACK/scalapack/releases/tag/v2.2.0[release notes for ScaLAPACK 2.2.0]
+ - Updated:  February 01, 2022
 
 === ScaLAPACK, version 2.1.0
 
